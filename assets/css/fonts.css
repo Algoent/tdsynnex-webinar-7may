@@ -1,0 +1,59 @@
+/*--------------------------------------------------------------
+# Fonts
+--------------------------------------------------------------*/
+@font-face {
+    font-family: 'helvetica_neuecondensed_black';
+    src: url('../fonts/helvetica_neue_condensed_black-webfont.woff2') format('woff2'),
+         url('../fonts/helvetica_neue_condensed_black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'helvetica_neueregular';
+    src: url('../fonts/helveticaneue-condensed-webfont.woff2') format('woff2'),
+         url('../fonts/helveticaneue-condensed-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'helveticaneuecondbold';
+    src: url('../fonts/helveticaneuecond_bold-webfont.woff2') format('woff2'),
+         url('../fonts/helveticaneuecond_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'helveticaneuecondregular';
+    src: url('../fonts/helveticaneuecond-webfont.woff2') format('woff2'),
+         url('../fonts/helveticaneuecond-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'helvetica_neue_lt_com37ThCn';
+    src: url('../fonts/helveticaneueltcom-thcn-webfont.woff2') format('woff2'),
+         url('../fonts/helveticaneueltcom-thcn-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
